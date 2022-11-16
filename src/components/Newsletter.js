@@ -56,7 +56,7 @@ const Newsletter = () => {
   return (
     <Container>
       <Title>JOIN THE LIST</Title>
-      <Desc>Receive promotions, alerts, and new releases.</Desc>
+      <Desc>Recieve regular information from us.</Desc>
       <InputContainer>
         <Input placeholder="Email Address"></Input>
         <Button>
